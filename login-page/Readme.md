@@ -3,11 +3,11 @@
 <h1 align="center">Hey there! 👋</h1>
 <h3 align="center">That's my personal unRAID edit! You can use it, but this repo is new... So don't be mad if some files are missing.</h3>
 
+
 - 👋 Here you can find some different designes/themes.
 
-- 🔭 Soon there will be an installation guid for you!
 
-- 📫 How to reach me **felbeeey@gmx.net**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
