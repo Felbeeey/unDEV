@@ -41,4 +41,4 @@ This is my personal unRAID edit! You can use it if u want but some directorys ar
 
 ## ⚡ GitHub Stats
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101)
+![Visitor Badge][Visitor Count](https://profile-counter.glitch.me/Felbeeey/count.svg)
