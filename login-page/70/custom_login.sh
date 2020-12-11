@@ -1,5 +1,5 @@
 #!/bin/bash
-TYPE="alien"
+TYPE="70"
 THEME="70.css"
 DOMAIN="felbeeey.github.io"
 ADD_JS="true"
