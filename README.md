@@ -5,28 +5,16 @@
 
 - 🛠️ Installation
 
-Recommended way:
-
 Install using the bash script and the plugin CA User Scripts
-
 Add a new user script by clicking Add new script
-
 Give it a name and click OK
-
 Click or hover over the gear icon and click Edit Script
-
 Paste the contents of the bash script: custom_login.sh
-
 Below the shebang(#!/bin/bash) are the variables you need to change for the different themes.
-
 Set the values to what you like, and click Save Changes
-
 To have the script applied at every boot, set the schedule to At Startup of Array
-
 Now just click Run Script and it will print some text in the window.
-
 Thats it.. logout and have a look at your new theme :)
-Javascript:
 
 
 - 📫 How to reach me **felbeeey@gmx.net**
