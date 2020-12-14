@@ -6,7 +6,7 @@
 
 - 🛠️ Installation
 
-1. Install using the bash script and the plugin CA User Scripts
+1. Install using the <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/70/custom_login.sh">bash script</a> and the plugin <a href="https://forums.unraid.net/topic/48286-plugin-ca-user-scripts/">CA User Scripts</a> 
 
 2. Add a new user script by clicking Add new script
 
