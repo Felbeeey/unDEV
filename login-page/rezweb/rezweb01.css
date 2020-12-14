@@ -1,0 +1,22 @@
+@import url("https://felbeeey.github.io/unDEV/login-page/00_base/base.css");
+:root {
+    --main-bg: radial-gradient(ellipse at center,#0000 0,rgba(0, 0, 0, 0) 100%) center center/cover no-repeat fixed, 
+    url(https://felbeeey.github.io/unDEV/login-page/rezweb/wallpaper/wallpaper02.jpg) center center/cover no-repeat fixed;
+    --logo: url(https://felbeeey.github.io/unDEV/login-page/rezweb/logo/logo01.png) center no-repeat;
+    --text-color: #f00;
+    --input-color: #b9e7ff;
+    --link-color: #c1200b;
+    --link-color-hover: #c1200b;
+    --case-color: #f00;
+    --button-text-color: #535353;
+    --button-text-color-hover: #000;
+    --button-color: #535353;
+    --button-color2: #535353;
+    --button-color-hover: #f00;
+    --button-color2-hover: #a44c00;
+    --input-font: 'Share Tech Mono', monospace;
+    --text-font: 'Share Tech Mono', monospace;   /*'VT323', 'Share Tech Mono'*/
+    --div-background-color-15: #0000005e;
+    --text-shadow: 0 0 0px;
+    --box-shadow: 0 0 30px;
+}
