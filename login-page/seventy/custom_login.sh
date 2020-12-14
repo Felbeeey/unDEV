@@ -1,6 +1,6 @@
 #!/bin/bash
-TYPE="70"
-THEME="70.css"
+TYPE="seventy"
+THEME="seventy.css"
 DOMAIN="felbeeey.github.io"
 ADD_JS="true"
 JS="custom_text_header.js"
