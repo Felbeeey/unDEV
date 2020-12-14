@@ -3,6 +3,7 @@
 <h1 align="center">Hey there! 👋</h1>
 <h3 align="center">That's my personal unRAID edit! You can use it, but this repo is new... So don't be mad if some files are missing.</h3>
 
+
 - 🛠️ Installation
 
 Install using the bash script and the plugin CA User Scripts
@@ -13,7 +14,7 @@ Give it a name and click OK
 
 Click or hover over the gear icon and click Edit Script
 
-Paste the contents of the bash script: custom_login.sh
+Paste the contents of the bash script: <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/70/custom_login.sh">custom_login.sh</a> 
 
 Below the shebang(#!/bin/bash) are the variables you need to change for the different themes.
 
@@ -24,6 +25,7 @@ To have the script applied at every boot, set the schedule to At Startup of Arra
 Now just click Run Script and it will print some text in the window.
 
 Thats it.. logout and have a look at your new theme :)
+
 
 
 - 📫 How to reach me **felbeeey@gmx.net**
