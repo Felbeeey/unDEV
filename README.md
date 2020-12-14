@@ -6,25 +6,25 @@
 
 - 🛠️ Installation
 
-Install using the bash script and the plugin CA User Scripts
+1. Install using the bash script and the plugin CA User Scripts
 
-Add a new user script by clicking Add new script
+2. Add a new user script by clicking Add new script
 
-Give it a name and click OK
+3. Give it a name and click OK
 
-Click or hover over the gear icon and click Edit Script
+4. Click or hover over the gear icon and click Edit Script
 
-Paste the contents of the bash script: <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/70/custom_login.sh">custom_login.sh</a> 
+5. Paste the contents of the bash script: <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/70/custom_login.sh">custom_login.sh</a> 
 
-Below the shebang(#!/bin/bash) are the variables you need to change for the different themes.
+6. Below the shebang(#!/bin/bash) are the variables you need to change for the different themes.
 
-Set the values to what you like, and click Save Changes
+7. Set the values to what you like, and click Save Changes
 
-To have the script applied at every boot, set the schedule to At Startup of Array
+8. To have the script applied at every boot, set the schedule to At Startup of Array
 
-Now just click Run Script and it will print some text in the window.
+9. Now just click Run Script and it will print some text in the window.
 
-Thats it.. logout and have a look at your new theme :)
+10. Thats it.. logout and have a look at your new theme :)
 
 
 
