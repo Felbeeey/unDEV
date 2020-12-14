@@ -16,7 +16,15 @@
 
 5. Paste the contents of the bash script: <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/70/custom_login.sh">custom_login.sh</a> 
 
-6. Below the shebang(#!/bin/bash) are the variables you need to change for the different themes.
+6. Below the shebang (#!/bin/bash) are the variables you need to change for the different themes.
+
+  6.1 for example;
+    -TYPE="70"
+    -THEME="70.css"
+    -DOMAIN="felbeeey.github.io"
+    -ADD_JS="true"
+    -JS="custom_text_header.js"
+    -DISABLE_THEME="false"
 
 7. Set the values to what you like, and click Save Changes
 
