@@ -14,17 +14,13 @@
 
 4. Click or hover over the gear icon and click Edit Script
 
-5. Paste the contents of the bash script: <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/70/custom_login.sh">custom_login.sh</a> 
+5. Paste the contents of the bash script: <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/70/custom_login.sh">custom_login.sh</a>
 
-6. Below the shebang (#!/bin/bash) are the variables you need to change for the different themes.
+6. To have the script applied at every boot, set the schedule to At Startup of Array
 
-7. Set the values to what you like, and click Save Changes
+7. Now just click Run Script and it will print some text in the window.
 
-8. To have the script applied at every boot, set the schedule to At Startup of Array
-
-9. Now just click Run Script and it will print some text in the window.
-
-10. Thats it.. logout and have a look at your new theme :)
+8. Thats it.. logout and have a look at your new theme :)
 
 
 
