@@ -18,14 +18,6 @@
 
 6. Below the shebang (#!/bin/bash) are the variables you need to change for the different themes.
 
-  6.1 for example;
-    -TYPE="70"
-    -THEME="70.css"
-    -DOMAIN="felbeeey.github.io"
-    -ADD_JS="true"
-    -JS="custom_text_header.js"
-    -DISABLE_THEME="false"
-
 7. Set the values to what you like, and click Save Changes
 
 8. To have the script applied at every boot, set the schedule to At Startup of Array
