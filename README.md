@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there! 👋</h1>
 <h3 align="center">That's my personal unRAID edit!</h3>
-<h4 align="center"> You can use it, but this repo is new... So don't be mad if some files are missing.</h4>
+<h4> You can use it, but this repo is new... So don't be mad if some files are missing.</h4>
 
 
 - 🛠️ Installation
