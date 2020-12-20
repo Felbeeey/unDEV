@@ -1,0 +1,22 @@
+@import url("https://felbeeey.github.io/unDEV/login-page/00_base/base.css");
+:root {
+    --main-bg: radial-gradient(ellipse at center,#0000 0,rgba(0, 0, 0, 0) 100%) center center/cover no-repeat fixed,
+    url(https://felbeeey.github.io/unDEV/login-page/seventy/wallpaper/wallpaper02.jpg) center center/cover no-repeat fixed;
+    --logo: url(https://felbeeey.github.io/unDEV/login-page/seventy/logo/70_LOGO_WHITE.png) center no-repeat;
+    --text-color: #15b0fc;
+    --input-color: #b9e7ff;
+    --link-color: #d7d7d7;
+    --link-color-hover: #f58738;
+    --case-color: #fff;
+    --button-text-color: #cacaca;
+    --button-text-color-hover: #000;
+    --button-color: #cacaca;
+    --button-color2: #cacaca;
+    --button-color-hover: #15b0fc;
+    --button-color2-hover: #bbe9ff;
+    --input-font: 'Share Tech Mono', monospace;
+    --text-font: 'Share Tech Mono', monospace;   /*'VT323', 'Share Tech Mono'*/
+    --div-background-color-15: #0006;
+    --text-shadow: 0 0 0px;
+    --box-shadow: 0 0 30px;
+}
