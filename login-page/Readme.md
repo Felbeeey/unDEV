@@ -1,17 +1,22 @@
-# unDEV
+# login-page
 
 <h1 align="center">Hey there! 👋</h1>
-<h3 align="center">That's my personal unRAID edit! You can use it, but this repo is new... So don't be mad if some files are missing.</h3>
 
-- 👋 Here you can find some different designes/themes.
+<h3 align>- 🛠️ Installation</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/felbeeey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="felbeeey" height="30" width="40" /></a>
-<a href="https://instagram.com/felbeeey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="felbeeey" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/felbeeey" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="felbeeey" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/Vf8gWQQv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/Vf8gWQQv" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.paypal.me/dominicfelber"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="felbeeey" /></a></p><br><br>
+1. Install using the <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/seventy/custom_login.sh">bash script</a> and the plugin <a href="https://forums.unraid.net/topic/48286-plugin-ca-user-scripts/">CA User Scripts</a> 
+
+2. Add a new user script by clicking 'Add new script'
+
+3. Give it a name and click 'OK'
+
+4. Click or hover over the gear icon and click 'Edit Script'
+
+5. Paste the contents of the bash script: <a href="https://github.com/Felbeeey/unDEV/blob/main/login-page/seventy/custom_login.sh">custom_login.sh</a>
+
+6. To have the script applied at every boot, set the schedule to 'At Startup of Array'
+
+7. Now just click 'Run Script' and it will print some text in the window.
+
+8. Thats it.. logout and have a look at your new theme :)
