@@ -19,4 +19,4 @@
 
 7. Now just click 'Run Script' and it will print some text in the window.
 
-8. Thats it.. logout and have a look at your new theme :)
+8. Thats it.. logout and have a look at your new login page :)
